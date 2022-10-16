@@ -1,1 +1,1 @@
-# ibm-ds-capstone-project
+# ibm-ml-capstone-project
